@@ -1,2 +1,2 @@
-Type Validation status: False
+Type Validation status: True
 Column Validation status: True
